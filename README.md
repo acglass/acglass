@@ -1,17 +1,6 @@
 ## Hi :)
 My name is A. C. Glass (she/they). I'm a software developer currently based in Pittsburgh, PA.
-
-### About Me
-My skills and tools:
-- Python (wxWidgets)
-- Web design (Webflow)
-- CAD Design (FreeCAD)
-- Graphic Design (Figma)
-- Music Production
-Currently learning:
-- JavaScript
-- HTML
-- React
+Here you will find some of my work, my skills and tools I use, and what I am currently learning
 
 ### My work
 - UI Design & Development
@@ -19,3 +8,15 @@ Currently learning:
 - Web Design
   - [CapSen Robotics](www.capsenrobotics.com)
   - [Graetz Foundation](www.graetzfoundation.org)
+
+### My skills
+- Python; wxWidgets
+- Web design; Webflow
+- CAD Design; FreeCAD
+- Graphic Design; Figma, etc.
+- Video Editing; DaVinci Resolve, kdenlive, etc.
+Currently learning:
+- JavaScript
+- HTML
+- React
+- Korean 🇰🇷
