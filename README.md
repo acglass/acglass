@@ -15,7 +15,7 @@ Here you will find some of my work, my skills and tools I use, and what I am cur
 - CAD Design; FreeCAD
 - Graphic Design; Figma, etc.
 - Video Editing; DaVinci Resolve, kdenlive, etc.
-Currently learning:
+#### Currently learning:
 - JavaScript
 - HTML
 - React
