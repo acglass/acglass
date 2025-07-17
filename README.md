@@ -1,5 +1,5 @@
 ## Hi :)
-My name is A. C. Glass (she/they). I'm a software developer currently based in Pittsburgh, PA.
+My name is A. C. Glass (she/they). I'm a software developer currently based in Pittsburgh, PA.  
 Here you will find some of my work, my skills and tools I use, and what I am currently learning
 
 ### My work
